@@ -23,6 +23,8 @@ to Google (be sure to `debounce` the input so you are not sending requests on ev
 
 ***Your code should be clean, easy to follow, and well documented.***
 
-*To clarify: You will be adding books to the UI, not to a users Google Cloud books account.*
+*To clarify:*
+- You will be adding books to the UI, not to a users Google Cloud books account.
+- We don't expect this to be persistent, but if you choose to make it so, use a Redux Design Pattern with `@ngrx/store`
 
 ### Good luck! We look forward to seeing your result!
