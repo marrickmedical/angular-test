@@ -9,6 +9,7 @@ This test will demonstrate your ability to:
 3) Build Intuitive UI/UX Design
     - [Material Design](https://material.angular.io/) (feel free to use a CSS Framework like Bootstrap along side Material Design)
 4) Use [Typescript](https://www.typescriptlang.org/)
+5) Use `git` and `github.com`
 
 ## Goal
 You will build a 'Bookshelf'. This is a simple one page application. The goal of the application
@@ -26,5 +27,9 @@ to Google (be sure to `debounce` the input so you are not sending requests on ev
 *To clarify:*
 - You will be adding books to the UI, not to a users Google Cloud books account.
 - We don't expect this to be persistent, but if you choose to make it so, use a Redux Design Pattern with `@ngrx/store`
+
+## Submitting your result
+Create a repo on your personal github account that will house all of your code. Once done, let us know @ it.jobs@marrickmedical.com with a link
+to the repo and we will review the project and let you know from there.
 
 ### Good luck! We look forward to seeing your result!
