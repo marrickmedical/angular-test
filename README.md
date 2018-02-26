@@ -18,9 +18,7 @@ is to manage a UI Bookshelf that can be:
 - Deleted from
 - Sorted (by at least book name)
 
-There will also need to be a search functionality. The complexity of the search is up to you
-but it needs to at least search by book name. Listen to input into the search box and make API requests
-to Google (be sure to `debounce` the input so you are not sending requests on every key press).
+There will also need to be a search functionality. A search bar should make requests to the Google Books API and list results to the user allowing them to select their book that will add it to their Bookshelf. The complexity of the search is up to you but it needs to at least search by book name. Listen to input into the search box and make API requests to Google (be sure to `debounce` the input so you are not sending requests on every key press).
 
 ***Your code should be clean, easy to follow, and well documented.***
 
@@ -30,7 +28,6 @@ to Google (be sure to `debounce` the input so you are not sending requests on ev
 - You will be using Angular 2+, so be sure you are viewing Google based searches accordingly. Do not view resources that are listed for 'AngularJS'. A good trick is to add 'angular 2' to any Google searches to filter the results.
 
 ## Submitting your result
-Create a repo on your personal github account that will house all of your code. Once done, let us know @ it.jobs@marrickmedical.com with a link
-to the repo and we will review the project and let you know from there.
+Create a repo on your personal github account that will house all of your code. Once done, let us know @ it.jobs@marrickmedical.com with a link to the repo and we will review the project and let you know from there.
 
 ### Good luck! We look forward to seeing your result!
