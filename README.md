@@ -18,7 +18,7 @@ is to manage a UI Bookshelf that can be:
 - Deleted from
 - Sorted (by at least book name)
 
-There will also need to be a search functionality. A search bar should make requests to the Google Books API and list results to the user allowing them to select their book that will add it to their Bookshelf. The complexity of the search is up to you but it needs to at least search by book name. Listen to input into the search box and make API requests to Google (be sure to `debounce` the input so you are not sending requests on every key press).
+There will also need to be a search functionality. A search bar should make requests to the Google Books API and list results to the user allowing them to select their book that will then be added to their Bookshelf. The complexity of the search is up to you but it needs to at least search by book name. Listen to input into the search box and make API requests to Google (be sure to `debounce` the input so you are not sending requests on every key press).
 
 ***Your code should be clean, easy to follow, and well documented.***
 
