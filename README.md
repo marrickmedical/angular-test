@@ -27,7 +27,7 @@ to Google (be sure to `debounce` the input so you are not sending requests on ev
 *To clarify:*
 - You will be adding books to the UI, not to a users Google Cloud books account.
 - We don't expect this to be persistent, but if you choose to make it so, use a Redux Design Pattern with `@ngrx/store`
-- You will be using Angular 2+, so be sure you are viewing Google based searches accordingly. Do not view resource that are listed for 'AngularJS'. A good trick is to add 'angular 2' to any Google searches to filter the results.
+- You will be using Angular 2+, so be sure you are viewing Google based searches accordingly. Do not view resources that are listed for 'AngularJS'. A good trick is to add 'angular 2' to any Google searches to filter the results.
 
 ## Submitting your result
 Create a repo on your personal github account that will house all of your code. Once done, let us know @ it.jobs@marrickmedical.com with a link
